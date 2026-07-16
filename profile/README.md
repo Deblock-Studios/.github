@@ -1,10 +1,7 @@
 ---
-identifier: github-readme
-type: text/markdown
-title: README.md
 content:  
   <p align="center">
-    <img src="logo.png" alt="Organization Logo" width="200">
+    <img src="logo-deblock.png" alt="Organization Logo" width="200">
   </p>
 
   <h1 align="center">Welcome to Deblock Studios</h1>
