@@ -1,5 +1,4 @@
 ---
-content:  
   <p align="center">
     <img src="logo-deblock.png" alt="Organization Logo" width="200">
   </p>
