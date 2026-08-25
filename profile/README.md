@@ -36,7 +36,7 @@ At **Deblock Studios**, we create websites and servers for MultiCraft and Luanti
  |---------|-------------|
  | [MultiCraft Info](https://multicraft-info.netlify.app) | A website about the game MultiCraft where you can view the server list, updates, and other informations |
  | [MultiDB](https://multidb.vercel.app) | The best place to download mods and texture packs for MultiCraft. |
- | [Wildium](https://microsoftgithub.com) | An upcoming server for PVP and faction. |
+ | [Wildium](https://deblock-studios.vercel.app/wildium.html) | An upcoming server for PVP and faction. |
 
   ---
 
