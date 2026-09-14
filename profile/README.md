@@ -46,7 +46,7 @@ At **Deblock Studios**, we create websites and servers for MultiCraft and Luanti
   ---
 
   ## 📬 Contact Us
-  Have questions or want to collaborate? Reach out to us via email : [creatif.france@outlook.com](mailto:creatif.france@outlook.com)
+  Have questions or want to collaborate? Reach out to us via email : [deblock-studios@proton.me](mailto:deblock-studios@proton.me)
 
   <p align="center">
     <em>© 2026 Deblock Studios. All rights reserved.</em>
